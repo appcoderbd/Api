@@ -1,0 +1,10 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "username": "johndoe",
+  "password": "password123",
+  "role": "patient",
+  "phone": "123-456-7890",
+  "profile_image": "string",
+  "address": "123 Main St, City, Country"
+}
